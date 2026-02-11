@@ -1,0 +1,5 @@
+{
+  "name": "AI Bot Log Analyzer",
+  "description": "A high-performance dashboard to parse server logs, track AI crawlers (GPTBot, ClaudeBot, etc.), and analyze traffic trends with side-by-side period comparisons.",
+  "requestFramePermissions": []
+}
